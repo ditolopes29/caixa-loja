@@ -1,0 +1,14 @@
+
+> store-manager@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.3 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.2:3000
+- Environments: .env
+✓ Ready in 805ms
+
+ HEAD /pos 200 in 2.4s (next.js: 413ms, application-code: 1937ms)
+ HEAD /products 200 in 528ms (next.js: 28ms, application-code: 500ms)
+ HEAD /reports 200 in 107ms (next.js: 24ms, application-code: 83ms)
+[?25h
